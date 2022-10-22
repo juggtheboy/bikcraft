@@ -9,7 +9,8 @@ h3,
 h4,
 ul,
 p,
-blockquote {
+blockquote,
+dd {
   margin: 0px;
 }
 
@@ -27,6 +28,7 @@ a {
 img {
   max-width: 100%;
   border-radius: 4px;
+  height: auto;
   display: block;
 }
 
